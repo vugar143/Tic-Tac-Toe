@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: bisque;
+}
+table{
+  background-color: aqua;
+}
+table td{
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+  color: black;
+}
+.match{
+  background-color: green;
+}
